@@ -18,6 +18,10 @@ A polished, zero-dependency browser-based task manager built with pure HTML, CSS
 
 ## 📸 Preview
 
+<p align="center">
+  <img src="assets/preview.png" alt="TaskFlow AI Dashboard Preview" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);" />
+</p>
+
 > TaskFlow AI features a modern, minimal UI with light & dark mode, live stats, and smart filtering — all running entirely in your browser with zero setup.
 
 ---
@@ -57,6 +61,8 @@ A polished, zero-dependency browser-based task manager built with pure HTML, CSS
 
 ```
 TaskFlow-AI/
+├── assets/
+│   └── preview.png # App screenshot / preview
 ├── index.html      # App shell — markup, semantic structure, dialog, header
 ├── style.css       # Design system — CSS tokens, layout, animations, dark mode
 ├── script.js       # App logic — state management, CRUD, rendering, events
